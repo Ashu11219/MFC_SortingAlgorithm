@@ -1,5 +1,5 @@
-package MFC;
 import java.util.Random;
+//Ashish Mishra - 24BME0471
 
 public class SortingComparison {
     // Bubble Sort
